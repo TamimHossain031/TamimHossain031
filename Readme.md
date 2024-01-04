@@ -23,8 +23,10 @@
 <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tamimhossain031&show_icons=true&locale=en&layout=compact" alt="tamimhossain031" /></p>
 <hr/>
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tamimhossain031&show_icons=true&locale=en" alt="tamimhossain031" /></p>
-<hr/>
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tamimhossain031&" alt="tamimhossain031" /></p><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamimhossain031" alt="tamimhossain031" /></a> </p>
+
+<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tamimhossain031&" alt="tamimhossain031" /></p>
+<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamimhossain031" alt="tamimhossain031" /></a> </p>
 <br/>
 <h2>Certificate : </h2>
 <p align='left'><img src='https://github.com/TamimHossain031/TamimHossain031/blob/main/Snip%20-%20Settings%20freeCodeCamp.org%20Mozilla%20Firefo.png?raw=true' width='800'/></p>
