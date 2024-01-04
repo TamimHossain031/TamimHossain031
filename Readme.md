@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamim .</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.A Frontend Web Developer's Journey into Designing Interactive and Intuitive Interfaces"</h3>
+<h3 align="center">A passionate front-end developer from Bangladesh.A Frontend Web Developer's Journey into Designing Interactive and Intuitive Interfaces"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamimhossain031&label=Profile%20views&color=0e75b6&style=flat" alt="tamimhossain031" /> </p>
 
