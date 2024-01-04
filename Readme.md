@@ -1,3 +1,4 @@
+![logo](https://github.com/TamimHossain031/TamimHossain031/blob/main/Blue%20Dark%20and%20Dynamic%20Reddit%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Tamim .</h1>
 
 <h3 align="center">A passionate front-end developer from Bangladesh.A Frontend Web Developer's Journey into Designing Interactive and Intuitive Interfaces"</h3>
