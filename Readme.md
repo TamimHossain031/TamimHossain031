@@ -12,7 +12,7 @@
 <a href="https://www.behance.net/https://www.behance.net/tamimhossain031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/tamimhossain031" height="30" width="40" /></a>
 </p>
 
-<p align='right'><img src='https://github.com/TamimHossain031/TamimHossain031/blob/main/2526393.jpg?raw=true' alt='aside-logo' width='400' height='400'/></p>
+<img align='right' src='https://github.com/TamimHossain031/TamimHossain031/blob/main/2526393.jpg?raw=true' alt='aside-logo' width='400' height='400'/>
 </div>
 
 
