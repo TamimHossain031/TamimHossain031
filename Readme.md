@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamimhossain031&label=Profile%20views&color=0e75b6&style=flat" alt="tamimhossain031" /> </p>
 <div>
-<img align='right' src='https://github.com/TamimHossain031/TamimHossain031/blob/main/2526393.jpg?raw=true' alt='aside-logo' width='400' height='400'/>
+<img align='right' src='https://github.com/TamimHossain031/TamimHossain031/blob/main/2526393.jpg?raw=true' alt='aside-logo' width='400'/>
 </div>
 
 
