@@ -30,5 +30,5 @@
 <br/>
 <h2>Certificate : </h2>
 <p align='left'><img src='https://github.com/TamimHossain031/TamimHossain031/blob/main/Snip%20-%20Settings%20freeCodeCamp.org%20Mozilla%20Firefo.png?raw=true' width='800'/></p>
-<p align='left'><img src='[https://github.com/TamimHossain031/TamimHossain031/blob/main/Snip%20-%20Settings%20freeCodeCamp.org%20Mozilla%20Firefo.png?raw=true](https://ibb.co.com/chNkvP6m)' width='800'/></p>
+<p align='left'><img src='https://ibb.co.com/chNkvP6m' width='800'/></p>
 
