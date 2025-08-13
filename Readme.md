@@ -26,8 +26,10 @@
 ---
 
 <!-- Side Image + Languages -->
-<p align="right">
-  <img src="https://github.com/TamimHossain031/TamimHossain031/blob/main/2526393.jpg?raw=true" alt="Illustration" width="350"/>
+<p align="center">
+  <a href="https://tamim-hossain.vercel.app/" target="_blank">
+    <img src="https://github.com/TamimHossain031/TamimHossain031/blob/main/image.png?raw=true" alt="Illustration" width="100%"/>
+  </a>
 </p>
 
 #### **Frontend**
