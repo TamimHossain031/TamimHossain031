@@ -68,13 +68,23 @@
 
 <!-- Connect -->
 ### 📬 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/tamim031/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://web.facebook.com/massenger.net" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" /></a>
-  <a href="https://www.behance.net/tamimhossain031" target="_blank"><img src="https://skillicons.dev/icons?i=behance" height="40" /></a>
+<p style="display:flex; gap:15px; align-items:center;">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/tamim031/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://web.facebook.com/massenger.net" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" />
+  </a>
+
+  <!-- Behance -->
+  <a href="https://www.behance.net/tamimhossain031" target="_blank">
+    <img src="https://cdn.simpleicons.org/behance/FFFFFF" height="40" />
+  </a>
 </p>
 
----
 
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
