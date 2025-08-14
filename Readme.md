@@ -64,6 +64,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Photoshop"/>
 </p>
 
+#### **CMS**
+<p>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="WordPress"/>
+</p>
+
 ---
 
 <!-- Connect -->
