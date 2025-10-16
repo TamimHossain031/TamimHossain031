@@ -47,21 +47,21 @@
 
 #### **Backend**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" alt="Node.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express.js" style="background-color:white; padding:5px; border-radius:6px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
 </p>
 
 #### **Databases**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60"  alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60"  alt="MongoDB"/>
 </p>
 
 #### **ORM**
 <p>
-<img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightLogo.svg" width="40" height="40" alt="Prisma"/>
-  <img src="https://github.com/TamimHossain031/TamimHossain031/blob/main/drizzle.jpg?raw=true" alt="Illustration" width="100%"/>
+<img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightLogo.svg" width="60" height="40" alt="Prisma"/>
+  <img src="https://github.com/TamimHossain031/TamimHossain031/blob/main/drizzle.jpg?raw=true" alt="Illustration" width="100"/>
 </p>
 
 
