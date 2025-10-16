@@ -61,7 +61,7 @@
 #### **ORM**
 <p>
 <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightLogo.svg" width="40" height="40" alt="Prisma"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drizzle/drizzle-original.svg" width="40" height="40" alt="Drizzle"/>
+  <img src="https://github.com/TamimHossain031/TamimHossain031/blob/main/drizzle.jpg?raw=true" alt="Illustration" width="100%"/>
 </p>
 
 
